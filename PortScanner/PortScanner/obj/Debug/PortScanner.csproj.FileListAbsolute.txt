@@ -1,0 +1,11 @@
+D:\PortScanner\PortScanner\PortScanner\bin\Debug\PortScanner.exe.config
+D:\PortScanner\PortScanner\PortScanner\bin\Debug\PortScanner.exe
+D:\PortScanner\PortScanner\PortScanner\bin\Debug\PortScanner.pdb
+D:\PortScanner\PortScanner\PortScanner\obj\Debug\PortScanner.csproj.AssemblyReference.cache
+D:\PortScanner\PortScanner\PortScanner\obj\Debug\PortScanner.Form1.resources
+D:\PortScanner\PortScanner\PortScanner\obj\Debug\PortScanner.Properties.Resources.resources
+D:\PortScanner\PortScanner\PortScanner\obj\Debug\PortScanner.csproj.GenerateResource.cache
+D:\PortScanner\PortScanner\PortScanner\obj\Debug\PortScanner.csproj.CoreCompileInputs.cache
+D:\PortScanner\PortScanner\PortScanner\obj\Debug\PortScanner.exe
+D:\PortScanner\PortScanner\PortScanner\obj\Debug\PortScanner.pdb
+D:\PortScanner\PortScanner\PortScanner\obj\Debug\PortScanner.Form2.resources
