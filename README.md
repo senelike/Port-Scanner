@@ -1,0 +1,1 @@
+This project is a simple port scanner written in C#. It allows users to scan a range of ports on a specified IP address or hostname, identifying open and closed ports. The port scanner can be useful for network administrators or security enthusiasts to analyze network vulnerabilities.
